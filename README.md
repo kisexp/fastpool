@@ -1,2 +1,2 @@
-# workpool
+# fastpool
 golang的协程池
